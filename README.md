@@ -1,4 +1,5 @@
-<h1>Automatidata Project</h1>
+<h1>Fare and Tip Prediction Model</h1>
+<h3>(Automatidata Project)</h3>
 
  ### [Google Advanced Data Analytics Certificate](https://github.com/fouzan-akhter/automatidata_project)
 
